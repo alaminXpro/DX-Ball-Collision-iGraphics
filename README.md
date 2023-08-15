@@ -36,8 +36,8 @@ The DX Ball Collision game is a fun and interactive game implemented in C++ that
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/dx-ball-collision.git`
-2. Navigate to the project directory: `cd dx-ball-collision`
+1. Download this repository and Unzip it
+2. Navigate to the project directory: `cd dx-ball-collision-igraphics`
 3. Compile the code: `g++ iMain.cpp`
 4. Run the executable: `./Debug/Dx Ball Collision iGraphics.exe`
 
