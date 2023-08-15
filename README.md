@@ -1,6 +1,6 @@
 # DX Ball Collision Game
 
-![Gameplay](DX Ball Collision iGraphics.png)
+![Gameplay](DX-Ball-Collision-iGraphics.png)
 
 ## Description
 
