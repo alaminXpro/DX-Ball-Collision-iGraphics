@@ -1,6 +1,6 @@
 # DX Ball Collision Game
 
-![Gameplay](DX%20Ball%20Collision%20iGraphics.png)
+![Dx Ball Collision](DX%20Ball%20Collision%20iGraphics.png)
 
 ## Description
 
@@ -26,8 +26,7 @@ The DX Ball Collision game is a fun and interactive game implemented in C++ that
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Dx Ball Collision](DX%20Ball%20Collision%20iGraphics.png)
 
 ## Prerequisites
 - Visual Studio Code 2013
